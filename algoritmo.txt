@@ -1,2 +1,12 @@
-1.
-2.
+Fase 12
+
+Avançar duas vezes
+Destruir bloco
+Se tiver lava, cobrir a passagem
+Avançar uma vez
+Virar a esquerda
+Avançar duas vezes
+Destruir bloco
+Avançar
+Virar a direita
+Destruir bloco
